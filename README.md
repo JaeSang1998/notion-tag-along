@@ -1,2 +1,2 @@
 # notion-tag-along
-This extension allows you to follow certain users, such as figma, in Notion.
+This extension allows you to follow certain users, like figma, in Notion.
